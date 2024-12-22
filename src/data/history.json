@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Google",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": [""],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Designer",
+    "organisation": "Mirosoft",
+    "startDate": "2021",
+    "endDate": "2022",
+    "experiences": [""],
+    "imageSrc": "history/microsoft.png"
+  }
+  
+]
